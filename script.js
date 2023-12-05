@@ -156,5 +156,6 @@ function selectAns(e) {
     if (btn.dataset.correct) {
       btn.classList.add("correct");
     }
+    btn.disabled = true;
   });
 }
