@@ -68,3 +68,15 @@ body {
   background: #df2c1c;
   color: #fff;
 }
+.scoreCard {
+  width: 100%;
+  background-color: #057293;
+  color: #fff;
+  padding: 20px 30px;
+  border-radius: 10px;
+  text-align: center;
+  justify-content: right;
+  display: block;
+  font-weight: 700;
+  margin: 10px auto;
+}
