@@ -61,11 +61,11 @@ body {
   cursor: pointer;
 }
 .correct {
-  background: #03ad25;
+  background-color: #03ad25;
   color: #fff;
 }
 .incorrect {
-  background: #df2c1c;
+  background-color: #df2c1c;
   color: #fff;
 }
 .scoreCard {
